@@ -1,2 +1,4 @@
 Add text
 This text will be a conflict
+Add more text
+We will rebase this on top of master
