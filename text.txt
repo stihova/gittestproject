@@ -1,1 +1,2 @@
 Add text
+This text will be a conflict
